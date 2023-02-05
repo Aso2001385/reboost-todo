@@ -1,18 +1,3 @@
-# [FRIDAY EDITOR](https://www.fridayeditor.click/)
-
-## FRIDAY EDITORとは
-markdown方式で記載された文をhtmlに変換し、自作のデザインを反映させることが出来ます ***Webサイト作成サービス***
-
-## [機能説明&利用手順](https://www.fridayeditor.click/explanation)
-
-## FrontEndでの仕様
-
-### 例外的な処理
-1. MarkDownAPI連携
-　MarkDownの記述をpostで送信することによって
-  HTMLに変換された文をResponseしてくれるMarkDownAPIの連携
-
-
 ## 使用ツール
 1. Nuxt.js
 2. Node.js
